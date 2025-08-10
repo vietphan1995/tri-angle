@@ -13,4 +13,4 @@ triAngle improves train moving speed by reduces friction, energy consumption, ob
 [back to projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
-https://six-zinc-ad4.notion.site/triAngle-1d65e832d6ee80029ff7e1e28ebd5c47
+https://phantrungviet.notion.site/triAngle-1d65e832d6ee80029ff7e1e28ebd5c47
