@@ -1,6 +1,8 @@
-# triAngle
+# tri-angle
 
-# Introduction
+## triAngle
+
+### Introduction
 
 [https://github.com/vietphan1995/tri-angle.git](https://github.com/vietphan1995/tri-angle.git)
 
@@ -10,7 +12,7 @@ triAngle improves train moving speed by reduces friction, energy consumption, ob
 
 ![image.png](image.png)
 
-[back to projects …](https://github.com/vietphan1995/projects)
+### [back to git projects …](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/triAngle-1d65e832d6ee80029ff7e1e28ebd5c47
